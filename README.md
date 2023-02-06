@@ -19,7 +19,8 @@ reduce 32d features into 2d
 ![슬라이드10](https://user-images.githubusercontent.com/79451613/216957591-fc7ee6af-12e7-4b1b-ba54-770d0a603ba5.JPG)
 
 ## Select 10% of data nearest to cluster centers and train MLPs
-![슬라이드12](https://user-images.githubusercontent.com/79451613/216958241-2100bffa-0832-4d4e-a71a-835a0c42995f.JPG
+![슬라이드12](https://user-images.githubusercontent.com/79451613/216963170-caf1e820-f0e0-4515-a10a-9938b0c88676.JPG)
+
 For this model, the input layer is a 32d layer where each dimension corresponds to the 32 sampling points of data. 256 nodes for hidden layer.
 The number of layers and nodes were chosen heuristically. used hyperbolic tangent function for activation fuction
 
