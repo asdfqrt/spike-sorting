@@ -23,7 +23,7 @@ reduce 32d features of data into 2d
 ![슬라이드12](https://user-images.githubusercontent.com/79451613/216963170-caf1e820-f0e0-4515-a10a-9938b0c88676.JPG)
 
 For this model, the input layer is a 32d layer where each dimension corresponds to the 32 sampling points of data. 256 nodes for hidden layer.
-The number of layers and nodes were chosen heuristically. used hyperbolic tangent function for activation fuction
+The number of layers and nodes were chosen heuristically, used hyperbolic tangent function for activation fuction
 
 
 ## Results
