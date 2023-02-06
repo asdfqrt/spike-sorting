@@ -1,5 +1,6 @@
 # Deep Learning-Based Spike Sorting Method for Extracellular Recordings
 Matlab implementation of [Deep Learning-Based Template Matching Spike Classification for Extracellular Recordings](https://doi.org/10.3390/app10010301).
+This project was done in fall 2020 at Yonsei University MAI intership.
 
 ## Outline
 ![슬라이드11](https://user-images.githubusercontent.com/79451613/216958190-57974de0-84b5-4472-b558-68d395833917.JPG)
