@@ -9,7 +9,8 @@ Matlab implementation of [Deep Learning-Based Template Matching Spike Classifica
 
 ## PCA
 ![슬라이드6](https://user-images.githubusercontent.com/79451613/216957434-a5bedff6-1943-445d-8f48-bd96e58d0302.JPG)
-reduce 32d features into 2d
+
+reduce 32d features of data into 2d
 
 ## K-means clustring
 ### Easy
@@ -26,6 +27,8 @@ The number of layers and nodes were chosen heuristically. used hyperbolic tangen
 
 
 ## Results
-![슬라이드13](https://user-images.githubusercontent.com/79451613/216958271-e51d56
-![슬라이드14](https://user-images.githubusercontent.com/79451613/216958278-921314eb-e769-4511-842c-d6170ad33624.JPG)
-01-8f33-49bb-a9c0-c56b2efff75d.JPG)
+![슬라이드12](https://user-images.githubusercontent.com/79451613/216963456-e1243661-9d74-4a41-9103-b4e1d04f1eed.JPG)
+
+![슬라이드13](https://user-images.githubusercontent.com/79451613/216963463-439f1744-05af-4fc2-97b4-cce502408f94.JPG)
+
+![슬라이드14](https://user-images.githubusercontent.com/79451613/216963471-79b0ad05-da6d-4196-a36e-241fd637582a.JPG)
