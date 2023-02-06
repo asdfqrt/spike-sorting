@@ -5,6 +5,11 @@ This project was done in fall 2020 at Yonsei University MAI intership.
 ## Outline
 ![슬라이드11](https://user-images.githubusercontent.com/79451613/216958190-57974de0-84b5-4472-b558-68d395833917.JPG)
 
+Proposed a deep learning-based spike sorting method on extracellular recordings from a single electrode that is
+efficient, robust to noise, and accurate. In circumstances where labelled data does not exist, we created
+pseudo-labels through principal component analysis and K-means clustering to be used for multi-layer
+perceptron training and built high performing spike classification model
+
 ## Dataset
 ![슬라이드5](https://user-images.githubusercontent.com/79451613/216957836-3be7821d-2374-48f5-9da9-d8bce4883b31.JPG)
 
